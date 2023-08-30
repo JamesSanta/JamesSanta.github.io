@@ -19,3 +19,16 @@ This project is a menu used to order pizzawith a various selection of toppings. 
 The classic game of tic-tac-toe. It randomly selects which of the two players (user or computer) goes first and then the players are off playing the classic game. The player that wins is celebrated with music,
 ### Calculator
 A basic four function calculator. Users can add, subtract, multiply, and divide on a sleek web version of a calculator.
+# Basic Python-Projects
+These are basic projects written in Python. They use various modules auch as tkinter or sqlite3.
+
+## Projects:
+* [Phonebook](https://github.com/JamesSanta/Python-Projects/tree/main/Phone%20book)
+* [Check Files Gui](https://github.com/JamesSanta/Python-Projects/blob/main/file_transfer.py)
+
+### Phonebook
+This project functions as a phone book for a user. It saves a contact's name, phone number, and email address in a database and allows the user to update and delete previously stored entries.
+
+### Check Files Gui
+This project allows the user to choose transfer all .txt files from one chosen directory to another.
+All files that are moved will be saved in a database.
